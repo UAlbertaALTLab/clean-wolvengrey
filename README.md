@@ -1,6 +1,10 @@
 clean-wolvengrey
 ================
 
+## DEPRECATION NOTICE
+
+_This project has been incorporated into the [UAlbertaALTLab/dictionary-database](https://github.com/UAlbertaALTLab/dictionary-database) repo._
+
 Cleans the tab-separated value copy of Dr. Arok Wolvengrey's
 “nēhiýawēwin: itwēwina” Cree-English dictionary.
 
